@@ -14,3 +14,7 @@
 
 # click on create vpn connection
 
+# download the configuration file
+
+# Go to route table in vpnside 
+  * add the route propogation
