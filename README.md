@@ -5,12 +5,12 @@
   3. click on create customer gateway
 
 # create site to site vpn connection
-  # click on vpn connection
-  # name
-  # choose virtual private gateway
-  # customer gateway
-  # routing static
-  # ststic ip prifixes = cidr of other side subnet
+  * click on vpn connection
+  * name
+  * choose virtual private gateway
+  * customer gateway
+  * routing static
+  * ststic ip prifixes = cidr of other side subnet
 
 # click on create vpn connection
 
